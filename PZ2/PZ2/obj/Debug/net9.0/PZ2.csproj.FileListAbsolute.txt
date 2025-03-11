@@ -1,0 +1,14 @@
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.AssemblyInfoInputs.cache
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.AssemblyInfo.cs
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\ceron\source\repos\PZ2\PZ2\bin\Debug\net9.0\PZ2.exe
+C:\Users\ceron\source\repos\PZ2\PZ2\bin\Debug\net9.0\PZ2.deps.json
+C:\Users\ceron\source\repos\PZ2\PZ2\bin\Debug\net9.0\PZ2.runtimeconfig.json
+C:\Users\ceron\source\repos\PZ2\PZ2\bin\Debug\net9.0\PZ2.dll
+C:\Users\ceron\source\repos\PZ2\PZ2\bin\Debug\net9.0\PZ2.pdb
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.dll
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\refint\PZ2.dll
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.pdb
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\PZ2.genruntimeconfig.cache
+C:\Users\ceron\source\repos\PZ2\PZ2\obj\Debug\net9.0\ref\PZ2.dll

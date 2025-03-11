@@ -1,0 +1,14 @@
+C:\Users\ceron\source\repos\PZ1\PZ1\bin\Debug\net9.0\PZ1.exe
+C:\Users\ceron\source\repos\PZ1\PZ1\bin\Debug\net9.0\PZ1.deps.json
+C:\Users\ceron\source\repos\PZ1\PZ1\bin\Debug\net9.0\PZ1.runtimeconfig.json
+C:\Users\ceron\source\repos\PZ1\PZ1\bin\Debug\net9.0\PZ1.dll
+C:\Users\ceron\source\repos\PZ1\PZ1\bin\Debug\net9.0\PZ1.pdb
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.AssemblyInfoInputs.cache
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.AssemblyInfo.cs
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.csproj.CoreCompileInputs.cache
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.dll
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\refint\PZ1.dll
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.pdb
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\PZ1.genruntimeconfig.cache
+C:\Users\ceron\source\repos\PZ1\PZ1\obj\Debug\net9.0\ref\PZ1.dll
