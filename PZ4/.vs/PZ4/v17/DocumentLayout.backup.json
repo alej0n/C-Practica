@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ceron\\source\\repos\\PZ4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04FF7E23-81C1-46BE-8895-237AB6E76940}|PZ4\\PZ4.csproj|c:\\users\\ceron\\source\\repos\\pz4\\pz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FF7E23-81C1-46BE-8895-237AB6E76940}|PZ4\\PZ4.csproj|solutionrelative:pz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FF7E23-81C1-46BE-8895-237AB6E76940}|PZ4\\PZ4.csproj|c:\\users\\ceron\\source\\repos\\pz4\\pz4\\pz4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04FF7E23-81C1-46BE-8895-237AB6E76940}|PZ4\\PZ4.csproj|solutionrelative:pz4\\pz4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceron\\source\\repos\\PZ4\\PZ4\\Program.cs",
+              "RelativeDocumentMoniker": "PZ4\\Program.cs",
+              "ToolTip": "C:\\Users\\ceron\\source\\repos\\PZ4\\PZ4\\Program.cs",
+              "RelativeToolTip": "PZ4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:51:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PZ4",
+              "DocumentMoniker": "C:\\Users\\ceron\\source\\repos\\PZ4\\PZ4\\PZ4.csproj",
+              "RelativeDocumentMoniker": "PZ4\\PZ4.csproj",
+              "ToolTip": "C:\\Users\\ceron\\source\\repos\\PZ4\\PZ4\\PZ4.csproj",
+              "RelativeToolTip": "PZ4\\PZ4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T22:51:10.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
