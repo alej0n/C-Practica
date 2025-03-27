@@ -2,7 +2,7 @@
 
 namespace EmployeeApp
 {
-    class Employee
+    partial class Employee
     {
         private string lastName;
         private string firstName;
@@ -22,27 +22,19 @@ namespace EmployeeApp
             this.yearsOfExperience = yearsOfExperience;
         }
 
-        public double CalculateSalary()
+
+        /*public string Prop_position
         {
-            if (position == "Manager")
-            {
-                salary = 5000 + (yearsOfExperience * 200);
-            }
-            else if (position == "Developer")
-            {
-                salary = 4000 + (yearsOfExperience * 150);
-            }
-            else
-            {
-                salary = 3000 + (yearsOfExperience * 100);
-            }
-            return salary;
+            set { position = value; }
         }
 
-        public double CalculateTax()
+        public int Prop_yearsOfExperience;
         {
-            return salary * 0.13; // 13% налог
-        }
+            set { yearsOfExperience = value; }
+        }*/
+
+
+
 
         public void DisplayEmployeeInfo()
         {

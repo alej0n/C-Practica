@@ -32,29 +32,51 @@ namespace articleApp
             this.articles = articles;
         }
 
-        public void DisplayArticle(int index)
+        /*public void DisplayArticle(int index)
+        //{
+        //    if (index >= 0 && index < articles.Length)
+        //    {
+        //        articles[index].DisplayInfo();
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Invalid article index.");
+        //    }
+        //}
+
+        //public void DisplayArticle(string productName)
+        //{
+        //    foreach (var article in articles)
+        //    {
+        //        if (article.ProductName.Equals(productName, StringComparison.OrdinalIgnoreCase))
+        //        {
+        //            article.DisplayInfo();
+        //            return;
+        //        }
+        //    }
+        //    Console.WriteLine("Product not found.");
+        }*/
+
+        // Indexator productName
+        public Article this[int index]
         {
-            if (index >= 0 && index < articles.Length)
-            {
-                articles[index].DisplayInfo();
-            }
-            else
-            {
-                Console.WriteLine("Invalid article index.");
-            }
+            get {return articles[index];}
         }
 
-        public void DisplayArticle(string productName)
+        // Indexador productName
+        public Article this[string productName]
         {
-            foreach (var article in articles)
+            get
             {
-                if (article.ProductName.Equals(productName, StringComparison.OrdinalIgnoreCase))
+                foreach (var article in articles)
                 {
-                    article.DisplayInfo();
-                    return;
+                    if (article.ProductName.Equals(productName, StringComparison.OrdinalIgnoreCase))
+                    {
+                        return article;
+                    }
                 }
+                throw new ArgumentException("Product not found.");
             }
-            Console.WriteLine("Product not found.");
         }
     }
 
@@ -72,14 +94,13 @@ namespace articleApp
             Store store = new Store(articles);
 
             Console.Write("Enter product index: ");
-            if (int.TryParse(Console.ReadLine(), out int index))
-            {
-                store.DisplayArticle(index);
-            }
+            int index = int.Parse(Console.ReadLine());
+            store[index -1].DisplayInfo();
+
 
             Console.Write("Enter product name: ");
             string productName = Console.ReadLine();
-            store.DisplayArticle(productName);
+            store[productName].DisplayInfo();
         }
     }
 }

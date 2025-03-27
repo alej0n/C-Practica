@@ -7,13 +7,11 @@ namespace FigureApp
         public abstract int GetSquare();
         public abstract int GetPerimetr();
     }
-
-     interface IFigure
+    interface IFigure 
     {
         int GetSquare();
         int GetPerimetr();
     }
-
     class Rectangle : Figure
     {
         private int width;
@@ -54,7 +52,6 @@ namespace FigureApp
             return (int)(2 * Math.PI * radius);
         }
     }
-
     class Program
     {
         static void Main()
