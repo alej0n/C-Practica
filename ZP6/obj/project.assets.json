@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceron\\C-Practica\\ZP6\\ZP6.csproj",
-      "projectName": "ZP6",
-      "projectPath": "C:\\Users\\ceron\\C-Practica\\ZP6\\ZP6.csproj",
+      "projectUniqueName": "C:\\Users\\ceron\\C-Practica\\ZP6\\PZ6.csproj",
+      "projectName": "PZ6",
+      "projectPath": "C:\\Users\\ceron\\C-Practica\\ZP6\\PZ6.csproj",
       "packagesPath": "C:\\Users\\ceron\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ceron\\C-Practica\\ZP6\\obj\\",
       "projectStyle": "PackageReference",
