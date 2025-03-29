@@ -29,7 +29,7 @@ class Program
     static double CalculateWorkedHours(DateTime start, DateTime end) //format time
     {
         double totalHours = 0;
-        TimeSpan treeDays = TimeSpan.FromDays(3);
+        TimeSpan treeDays = TimeSpan.FromDays(3); //TimeSpan
         TimeSpan twoDays = TimeSpan.FromDays(2);
         TimeSpan oneDay = treeDays - twoDays;
 
