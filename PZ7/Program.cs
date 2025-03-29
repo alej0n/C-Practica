@@ -9,21 +9,21 @@ struct Product : IProduct
 {
     public string Name;
     public string Country;
-    public int ProductNumber;
+    public int Id;
     public decimal Price;
 
     // Конструктор с параметрами
-    public Product(string name, string country, int productNumber, decimal price)
+    public Product(string name, string country, int id, decimal price)
     {
         Name = name;
         Country = country;
-        ProductNumber = productNumber;
+        Id = id;
         Price = price;
     }
 
     public void Display()
     {
-        Console.WriteLine($"Product: {Name}, Country: {Country}, Id: {ProductNumber}, Price: {Price:C}");
+        Console.WriteLine($"Product: {Name}, Country: {Country}, Id: {Id}, Price: {Price} ");
     }
 }
 
@@ -35,7 +35,7 @@ class Program
         Product product1;
         product1.Name = "Notebook";
         product1.Country = "USA";
-        product1.ProductNumber = 101;
+        product1.Id = 101;
         product1.Price = 1500.99m;
 
         Product product2 = new Product("Smartphone", "China", 202, 999.49m);

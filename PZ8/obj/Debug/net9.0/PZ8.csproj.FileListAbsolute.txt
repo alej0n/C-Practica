@@ -1,0 +1,15 @@
+C:\Users\ceron\C-Practica\PZ8\bin\Debug\net9.0\PZ8.exe
+C:\Users\ceron\C-Practica\PZ8\bin\Debug\net9.0\PZ8.deps.json
+C:\Users\ceron\C-Practica\PZ8\bin\Debug\net9.0\PZ8.runtimeconfig.json
+C:\Users\ceron\C-Practica\PZ8\bin\Debug\net9.0\PZ8.dll
+C:\Users\ceron\C-Practica\PZ8\bin\Debug\net9.0\PZ8.pdb
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.AssemblyInfoInputs.cache
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.AssemblyInfo.cs
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.csproj.CoreCompileInputs.cache
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.sourcelink.json
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.dll
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\refint\PZ8.dll
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.pdb
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\PZ8.genruntimeconfig.cache
+C:\Users\ceron\C-Practica\PZ8\obj\Debug\net9.0\ref\PZ8.dll
