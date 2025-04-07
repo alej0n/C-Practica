@@ -35,6 +35,6 @@ class Program
 
         // Calculate среднее значение
         double average = calculateAverage(del);
-        Console.WriteLine($"Среднее арифметическое: {average}");
+        Console.WriteLine($"Crednye znachenye: {average}");
     }
 }

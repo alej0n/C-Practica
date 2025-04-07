@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ceron\\C-Practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F9C28D0-5CE4-48E2-BBD4-B93AD1F94B85}|PZ9\\PZ9.csproj|c:\\users\\ceron\\c-practica\\pz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9C28D0-5CE4-48E2-BBD4-B93AD1F94B85}|PZ9\\PZ9.csproj|solutionrelative:pz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD6D04D8-30D7-4876-A152-EA23152375CF}|PZ10\\PZ9_10.csproj|c:\\users\\ceron\\c-practica\\pz10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6D04D8-30D7-4876-A152-EA23152375CF}|PZ10\\PZ9_10.csproj|solutionrelative:pz10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F9C28D0-5CE4-48E2-BBD4-B93AD1F94B85}|PZ9\\PZ9.csproj|c:\\users\\ceron\\c-practica\\pz9\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9C28D0-5CE4-48E2-BBD4-B93AD1F94B85}|PZ9\\PZ9.csproj|solutionrelative:pz9\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{959BBC86-A00A-4C14-B024-80DFCC4A95FD}|PZ6\\PZ6.csproj|c:\\users\\ceron\\c-practica\\pz6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBC86-A00A-4C14-B024-80DFCC4A95FD}|PZ6\\PZ6.csproj|solutionrelative:pz6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBC86-A00A-4C14-B024-80DFCC4A95FD}|PZ6\\PZ6.csproj|c:\\users\\ceron\\c-practica\\pz6\\sortedextensionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBC86-A00A-4C14-B024-80DFCC4A95FD}|PZ6\\PZ6.csproj|solutionrelative:pz6\\sortedextensionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Practice.cs",
-              "DocumentMoniker": "C:\\Users\\ceron\\C-Practica\\PZ9\\Practice.cs",
-              "RelativeDocumentMoniker": "PZ9\\Practice.cs",
-              "ToolTip": "C:\\Users\\ceron\\C-Practica\\PZ9\\Practice.cs",
-              "RelativeToolTip": "PZ9\\Practice.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAApwFQAAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SortedExtensionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ceron\\C-Practica\\PZ6\\SortedExtensionExtension.cs",
+              "RelativeDocumentMoniker": "PZ6\\SortedExtensionExtension.cs",
+              "ToolTip": "C:\\Users\\ceron\\C-Practica\\PZ6\\SortedExtensionExtension.cs",
+              "RelativeToolTip": "PZ6\\SortedExtensionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T18:06:26.337Z",
+              "WhenOpened": "2025-04-07T18:09:20.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ceron\\C-Practica\\PZ6\\Program.cs",
+              "RelativeDocumentMoniker": "PZ6\\Program.cs",
+              "ToolTip": "C:\\Users\\ceron\\C-Practica\\PZ6\\Program.cs",
+              "RelativeToolTip": "PZ6\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:09:16.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ceron\\C-Practica\\PZ9\\Program.cs",
-              "RelativeDocumentMoniker": "PZ9\\Program.cs",
-              "ToolTip": "C:\\Users\\ceron\\C-Practica\\PZ9\\Program.cs",
-              "RelativeToolTip": "PZ9\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ceron\\C-Practica\\PZ10\\Program.cs",
+              "RelativeDocumentMoniker": "PZ10\\Program.cs",
+              "ToolTip": "C:\\Users\\ceron\\C-Practica\\PZ10\\Program.cs*",
+              "RelativeToolTip": "PZ10\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:31:50.591Z",
+              "WhenOpened": "2025-04-07T18:02:37.928Z",
               "EditorCaption": ""
             }
           ]

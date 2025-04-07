@@ -1,0 +1,15 @@
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.AssemblyInfoInputs.cache
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.AssemblyInfo.cs
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.csproj.CoreCompileInputs.cache
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.sourcelink.json
+C:\Users\ceron\C-Practica\ZTest\bin\Debug\net9.0\ZTest.exe
+C:\Users\ceron\C-Practica\ZTest\bin\Debug\net9.0\ZTest.deps.json
+C:\Users\ceron\C-Practica\ZTest\bin\Debug\net9.0\ZTest.runtimeconfig.json
+C:\Users\ceron\C-Practica\ZTest\bin\Debug\net9.0\ZTest.dll
+C:\Users\ceron\C-Practica\ZTest\bin\Debug\net9.0\ZTest.pdb
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.dll
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\refint\ZTest.dll
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.pdb
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ZTest.genruntimeconfig.cache
+C:\Users\ceron\C-Practica\ZTest\obj\Debug\net9.0\ref\ZTest.dll
