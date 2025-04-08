@@ -1,0 +1,15 @@
+C:\Users\ceron\C-Practica\PZ11\bin\Debug\net9.0\PZ911.exe
+C:\Users\ceron\C-Practica\PZ11\bin\Debug\net9.0\PZ911.deps.json
+C:\Users\ceron\C-Practica\PZ11\bin\Debug\net9.0\PZ911.runtimeconfig.json
+C:\Users\ceron\C-Practica\PZ11\bin\Debug\net9.0\PZ911.dll
+C:\Users\ceron\C-Practica\PZ11\bin\Debug\net9.0\PZ911.pdb
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.AssemblyInfoInputs.cache
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.AssemblyInfo.cs
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.csproj.CoreCompileInputs.cache
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.sourcelink.json
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.dll
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\refint\PZ911.dll
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.pdb
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\PZ911.genruntimeconfig.cache
+C:\Users\ceron\C-Practica\PZ11\obj\Debug\net9.0\ref\PZ911.dll

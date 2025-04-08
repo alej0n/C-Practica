@@ -1,0 +1,21 @@
+﻿<Window x:Class="PZ12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <TextBox x:Name="txtNum1" Margin="0,0,0,5"/>
+        <TextBox x:Name="txtNum2" Margin="0,0,0,5"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="btnAdd" Content="+" Width="40" Margin="2"/>
+            <Button x:Name="btnSub" Content="-" Width="40" Margin="2"/>
+            <Button x:Name="btnMul" Content="×" Width="40" Margin="2"/>
+            <Button x:Name="btnDiv" Content="÷" Width="40" Margin="2"/>
+        </StackPanel>
+        <TextBlock x:Name="txtResult" FontSize="16" Margin="0,10,0,0" TextAlignment="Center"/>
+    </StackPanel>
+
+</Window>

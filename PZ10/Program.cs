@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // Расширяющий метод
 public static class NestedClass
 {
-    //nested metod
+    //nested metod and Generic
     public static T[] GetArray<T>(this List<T> list)
     {
         return list.ToArray();
