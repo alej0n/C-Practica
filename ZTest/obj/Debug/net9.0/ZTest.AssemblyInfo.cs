@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd9230354638f141189609f0f652364281f3802")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c744f0448b91cc0a74ecca721ecb624264e1daef")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

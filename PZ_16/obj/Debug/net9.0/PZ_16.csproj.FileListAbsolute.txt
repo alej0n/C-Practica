@@ -1,0 +1,15 @@
+C:\Users\ceron\C-Practica\PZ_16\bin\Debug\net9.0\PZ_16.exe
+C:\Users\ceron\C-Practica\PZ_16\bin\Debug\net9.0\PZ_16.deps.json
+C:\Users\ceron\C-Practica\PZ_16\bin\Debug\net9.0\PZ_16.runtimeconfig.json
+C:\Users\ceron\C-Practica\PZ_16\bin\Debug\net9.0\PZ_16.dll
+C:\Users\ceron\C-Practica\PZ_16\bin\Debug\net9.0\PZ_16.pdb
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.AssemblyInfoInputs.cache
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.AssemblyInfo.cs
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.csproj.CoreCompileInputs.cache
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.sourcelink.json
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.dll
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\refint\PZ_16.dll
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.pdb
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\PZ_16.genruntimeconfig.cache
+C:\Users\ceron\C-Practica\PZ_16\obj\Debug\net9.0\ref\PZ_16.dll
